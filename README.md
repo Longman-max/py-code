@@ -1,6 +1,6 @@
-# Python Playground
+# py-code
 
-Past Python learning projects — experiments and builds.
+Python learning projects — experiments and builds.
 
 ## Structure
 - **learning** – Notes, examples, and practice code.
